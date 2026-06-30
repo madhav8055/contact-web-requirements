@@ -1,4 +1,1 @@
-"hello world" 
-"second line added" 
-"feature work" 
-"feature line Y" 
+"CHANGED BY FEATURE" 
